@@ -1,0 +1,14 @@
+{
+  "name": "suctioning27905",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "PG-slot Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ PG-slot เว็บสล็อตออนไลน์ สร้างชื่อเสียงมาอย่างยาวนาน บริการเชื่อถือได้ เกมอัตราการชนะสูงสุด",
+  "keywords": [
+    "PG-slot Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ PG-slot เว็บสล็อตออนไลน์ สร้างชื่อเสียงมาอย่างยาวนาน บริการเชื่อถือได้ เกมอัตราการชนะสูงสุด"
+  ],
+  "repository": "https://github.com/yorkinyellow/suctioning27905",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
